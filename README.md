@@ -3,10 +3,8 @@
 <h3 align="center"> 💻 Tech Stacks 💻 </h3>
 
 <p align="center"> 
-  
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  
+  <img src="https://img.shields.io/badge/Java-FF9A00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-239DFF?style=flat-square&logo=C&logoColor=white"/>
 </p>
 
 <p align="center"> 
