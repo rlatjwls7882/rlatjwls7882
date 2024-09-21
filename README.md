@@ -9,5 +9,8 @@
   [![CodeForces](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 </h2>
 
-# Award
+# Activities
+- (2024) 서울대학교 SCSC 프로그래밍 경시대회 Division 2 (75th)
+- (2024) UCPC 예선 (76th)
+- (2024) 제5회 MatKor Cup : 2024 Summer/Fall (30th)
 - (2024) 제2회 HSPC(Hanyang-Sejong Programming Contest) Beginner (2nd)
