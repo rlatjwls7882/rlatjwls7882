@@ -3,7 +3,8 @@
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Java-FF9A00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-239DFF?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-239DFF?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </p>
 
 <h2 align="center"> 
@@ -19,6 +20,7 @@
 </h2>
 
 # Education
+- (2020 ~ 2022) 광주중앙고등학교
 - (2024 ~ ) 세종대학교 인공지능융합대학 컴퓨터공학과
 
 # Activity
