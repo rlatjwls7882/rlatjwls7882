@@ -29,4 +29,4 @@
 - (2024) UCPC 예선 (76th)
 - (2024) 제5회 MatKor Cup : 2024 Summer/Fall (30th)
 - (2024) 제2회 HSPC(Hanyang-Sejong Programming Contest) Beginner (2nd)
-- (2024) ICPC Seoul Regional (47th)
+- (2024) ICPC Seoul Regional (56th)
