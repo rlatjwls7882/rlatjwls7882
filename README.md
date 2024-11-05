@@ -25,8 +25,8 @@
 - (2024 ~ ) 세종대학교 인공지능융합대학 컴퓨터공학과
 
 # Activity
-- (2024) 서울대학교 SCSC 프로그래밍 경시대회 Division 2 (75th)
-- (2024) UCPC 예선 (76th)
-- (2024) 제5회 MatKor Cup : 2024 Summer/Fall (30th)
-- (2024) 제2회 HSPC(Hanyang-Sejong Programming Contest) Beginner (2nd)
-- (2024) ICPC Seoul Regional 예선(56th)
+- (2024-05-25) 서울대학교 SCSC 프로그래밍 경시대회 Division 2 (75th)
+- (2024-07-13) UCPC 예선 (76th)
+- (2024-09-08) 제5회 MatKor Cup : 2024 Summer/Fall (30th)
+- (2024-09-20) 제2회 HSPC(Hanyang-Sejong Programming Contest) Beginner (2nd)
+- (2024-10-26) ICPC Seoul Regional 예선(56th)
