@@ -33,5 +33,5 @@
 
 # Project
 - [백준 문제 풀이 저장소](https://github.com/rlatjwls7882/Baekjoon)
-- [Cpp 기준 알고리즘 정리](https://github.com/rlatjwls7882/Cpp-Algorithms)
+- [대회 / 코테 알고리즘 정리(C++ 기준)](https://github.com/rlatjwls7882/Cpp-Algorithms)
 - [개인 사이트에 문제 풀이](https://projectbpm.kro.kr/rlatjwls7882@gmail.com)
