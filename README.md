@@ -24,12 +24,14 @@
 - (2024 ~ ) 세종대학교 인공지능융합대학 컴퓨터공학과
 
 # Activity
-- (2024-05-25) 서울대학교 SCSC 프로그래밍 경시대회 Division 2 (75th)
+- (2024-05-25) 제 2회 서울대학교 SCSC 프로그래밍 경시대회 Division 2 (75th)
 - (2024-07-13) UCPC 예선 (76th)
 - (2024-09-08) 제5회 MatKor Cup : 2024 Summer/Fall (30th)
 - (2024-09-20) 제2회 HSPC(Hanyang-Sejong Programming Contest) Beginner (2nd)
-- (2024-10-26) ICPC Seoul Regional 예선(56th)
-- (2024-11-23) ICPC Seoul Regional 본선(54th)
+- (2024-10-26) ICPC Seoul Regional 예선 (56th)
+- (2024-11-23) ICPC Seoul Regional 본선 (54th)
+- (2025-05-10) 월간 향유회 4-5월 대회 (26th)
+- (2025-05-17) 제 3회 서울대학교 SCSC 프로그래밍 경시대회 Division 2 (38th)
 
 # Project
 - [백준 문제 풀이 저장소](https://github.com/rlatjwls7882/Baekjoon)
