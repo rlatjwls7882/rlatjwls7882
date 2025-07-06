@@ -32,7 +32,7 @@
 - (2024-11-23) ICPC Seoul Regional 본선 (54th)
 - (2025-05-10) 월간 향유회 4-5월 대회 (26th)
 - (2025-05-17) 제 3회 서울대학교 SCSC 프로그래밍 경시대회 Division 2 (38th)
-- (2025-05-23) [인터페이스 2025 해커톤](https://github.com/rlatjwls7882/Enterface)
+- (2025-05-23) 인터페이스 2025 해커톤
 
 # Project
 - [백준 문제 풀이 저장소](https://github.com/rlatjwls7882/Baekjoon)
