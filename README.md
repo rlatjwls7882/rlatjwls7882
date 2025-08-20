@@ -1,5 +1,3 @@
-<h2 align="center"> Hi there 👋 </h2>
-
 ## Tech Stack
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-FF9A00?style=flat-square&logo=openjdk&logoColor=white">
