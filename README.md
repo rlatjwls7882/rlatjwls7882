@@ -41,6 +41,7 @@
 - (2025-05-17) 제 3회 서울대학교 SCSC 프로그래밍 경시대회 Division 2 (38th)
 - (2025-05-23) 인터페이스 2025 해커톤
 - (2025-07-12) UCPC 예선 (63th)
+- (2025-08-23) 제7회 고려대학교 MatKor Cup: 2025 Summer, The FinAL (38th)
 
 ## Project
 - [백준 문제 풀이 저장소](https://github.com/rlatjwls7882/Baekjoon)
