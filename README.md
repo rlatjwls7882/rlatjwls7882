@@ -22,12 +22,12 @@
 </p>
 
 ## Education
-- (2020 ~ 2022) Gwangju Joongang High School
-- (2024 ~ ) Sejong University, Department of Computer Science & Engineering
+- (2020 ~ 2022) 광주중앙고등학교
+- (2024 ~ ) 세종대학교 인공지능융합대학 컴퓨터공학과
 
 ## Club
 - (2024) 세종대학교 알고리즘 동아리 SAL
-- (2025 ~ ) 세종대학교 중앙 학술동아리 인터페이스
+- (2025 ~ ) 세종대학교 중앙 학술동아리 Interface
 - (2025 ~ ) 세종대학교 중앙 인공지능 동아리 SAI
 
 ## Activity
