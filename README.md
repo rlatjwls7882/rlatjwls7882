@@ -13,12 +13,9 @@
   </a>
 </p>
 <p>
-  <a href="https://atcoder.jp/users/rlatjwls7882">
-    <img alt="AtCoder Badge" src="https://atcoder.junah.dev/v1/generate_badge?name=rlatjwls7882">
-  </a>
-  <a href="https://codeforces.com/profile/rlatjwls7882">
-    <img alt="Codeforces Badge" src="https://cf.leed.at?id=rlatjwls7882">
-  </a>
+  
+  [![Atcoder Profile](https://atcoder-badge.kro.kr?id=rlatjwls7882)](https://atcoder.jp/users/rlatjwls7882)
+  [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 </p>
 
 ## Education
