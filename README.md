@@ -39,7 +39,7 @@
 - (2025-05-23) Interface 2025 Hackathon
 - (2025-07-12) UCPC Preliminary Round (63th)
 - (2025-08-23) 7th MatKor Cup: 2025 Summer, The FinAL (38th)
-- (2025-10-11) ICPC Asia Seoul National First Round (72th)
+- (2025-10-11) ICPC Asia Seoul Regional First Round (72th)
 
 ## Project
 - [백준 문제 풀이 저장소](https://github.com/rlatjwls7882/Baekjoon)
