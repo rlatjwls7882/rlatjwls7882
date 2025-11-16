@@ -34,7 +34,7 @@
 - (2024-09-20) 2nd HSPC(Hanyang-Sejong Programming Contest) Beginner (2nd)
 - (2024-10-26) ICPC Asia Seoul Regional First Round (56th)
 - (2024-11-23) ICPC Asia Seoul Regional (54th)
-- (2025-11-26) TOSC(Test Of Software Coding) (3등)
+- (2025-11-26) TOSC(Test Of Software Coding) (3등상)
 - (2025-05-10) 월간 향유회 4-5월 대회 (26th)
 - (2025-05-17) 3rd SCPC(SCSC Computer Programming Contest) Division 2 (38th)
 - (2025-05-23) Interface 2025 Hackathon
