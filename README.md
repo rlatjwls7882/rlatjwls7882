@@ -34,14 +34,14 @@
 - (2024-09-20) 2nd HSPC(Hanyang-Sejong Programming Contest) Beginner (2nd)
 - (2024-10-26) ICPC Asia Seoul Regional First Round (56th)
 - (2024-11-23) ICPC Asia Seoul Regional (54th)
-- (2025-11-26) 9th TOSC(Test Of Software Coding) (3등상)
+- (2025-11-26) 9th TOSC(Test Of Software Coding) (Third Prize)
 - (2025-05-10) 월간 향유회 4-5월 대회 (26th)
 - (2025-05-17) 3rd SCPC(SCSC Computer Programming Contest) Division 2 (38th)
 - (2025-05-23) Interface 2025 Hackathon
 - (2025-07-12) UCPC Preliminary Round (63th)
 - (2025-08-23) 7th MatKor Cup: 2025 Summer, The FinAL (38th)
 - (2025-10-11) ICPC Asia Seoul Regional First Round (72th)
-- (2025-11-08) 10th TOSC(Test Of Software Coding) (대상)
+- (2025-11-08) 10th TOSC(Test Of Software Coding) (Grand Prize)
 
 ## Project
 - [백준 문제 풀이 저장소](https://github.com/rlatjwls7882/Baekjoon)
