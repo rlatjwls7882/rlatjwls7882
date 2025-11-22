@@ -43,7 +43,7 @@
 - (2025-10-11) ICPC Asia Seoul Regional First Round (72th)
 - (2025-11-08) 10th TOSC(Test Of Software Coding) (Grand Prize)
 - (2025-11-22) ICPC Asia Seoul Regional (51th)
-- [2025 건국대학교 프로그래밍 경진대회 (KUPC) 외부 검수진](https://www.acmicpc.net/contest/view/1588)
+- (외부 검수진) [2025 건국대학교 프로그래밍 경진대회 (KUPC)](https://www.acmicpc.net/contest/view/1588)
 
 ## Project
 - [백준 문제 풀이 저장소](https://github.com/rlatjwls7882/Baekjoon)
