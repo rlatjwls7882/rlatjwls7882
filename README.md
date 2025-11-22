@@ -42,6 +42,7 @@
 - (2025-08-23) 7th MatKor Cup: 2025 Summer, The FinAL (38th)
 - (2025-10-11) ICPC Asia Seoul Regional First Round (72th)
 - (2025-11-08) 10th TOSC(Test Of Software Coding) (Grand Prize)
+- (2025-11-22) ICPC Asia Seoul Regional (51th)
 
 ## Project
 - [백준 문제 풀이 저장소](https://github.com/rlatjwls7882/Baekjoon)
