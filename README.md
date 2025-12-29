@@ -6,10 +6,10 @@
 </p>
 
 ## Competitive Programming
-- Atcoder Top Rating 5 Kyu 1034  
-- Codeforces Top Rating Expert 1608  
 - BOJ 49등  
 - Solved.ac Diamond III 734등  
+- Atcoder Top Rating 5 Kyu 1034  
+- Codeforces Top Rating Expert 1608  
 <p>
   <a href="https://solved.ac/profile/rlatjwls3333/">
     <img alt="Solved.ac" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333">
