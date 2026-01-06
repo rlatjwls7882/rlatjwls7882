@@ -6,7 +6,7 @@
 </p>
 
 ## Competitive Programming
-- BOJ 49등  
+- BOJ 48등  
 - Solved.ac Diamond III 734등  
 - Atcoder Top Rating 5 Kyu 1034  
 - Codeforces Top Rating Expert 1608  
