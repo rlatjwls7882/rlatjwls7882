@@ -56,4 +56,4 @@
 ## Project
 - [백준 문제 풀이 저장소](https://github.com/rlatjwls7882/Baekjoon)
 - [대회 / 코딩테스트 알고리즘 정리](https://github.com/rlatjwls7882/Cpp-Algorithms)
-- [개인 사이트에 문제 풀이](https://projectbpm.kro.kr/user/rlatjwls3333)
+- [개인 사이트에 문제 풀이](https://projectbpm.kro.kr)
