@@ -35,9 +35,9 @@
 ## Activity
 - 2025년
   - (외부 검수진) [2025 건국대학교 프로그래밍 경진대회 (KUPC)](https://www.acmicpc.net/contest/view/1588)
-  - (2025-11-22) [ICPC Asia Seoul Regional](http://static.icpckorea.net/2025/regional/scoreboard) (51th)
+  - (2025-11-22) [ICPC Asia Seoul Regional](https://icpckorea.org/2025-seoul/regional) (51th)
   - (2025-11-08) [제10회 SW코딩경시대회 (TOSC)](https://do.sejong.ac.kr/ko/mypage/programs/view/3897/description) (대상)
-  - (2025-10-11) [ICPC Asia Seoul Regional First Round](http://static.icpckorea.net/2025/preliminary/scoreboard) (72th)
+  - (2025-10-11) [ICPC Asia Seoul Regional First Round](https://icpckorea.org/2025-seoul/preliminary) (72th)
   - (2025-08-23) [제7회 고려대학교 MatKor Cup: 2025 Summer, The FinAL](https://www.acmicpc.net/contest/view/1536) (38th)
   - (2025-07-12) [UCPC 예선](https://www.acmicpc.net/contest/view/1525) (63th)
   - (2025-05-23) Interface 2025 Hackathon
@@ -46,8 +46,8 @@
 
 - 2024년
   - (2024-11-26) [제9회 SW코딩경시대회 (TOSC)](https://do.sejong.ac.kr/ko/mypage/programs/view/3469/description) (3등상)
-  - (2024-11-23) [ICPC Asia Seoul Regional](http://static.icpckorea.net/2024/regional/scoreboard) (54th)
-  - (2024-10-26) [ICPC Asia Seoul Regional First Round](http://static.icpckorea.net/2024/first_round/scoreboard_10282200) (56th)
+  - (2024-11-23) [ICPC Asia Seoul Regional](https://icpckorea.org/2024-seoul/regional) (54th)
+  - (2024-10-26) [ICPC Asia Seoul Regional First Round](https://icpckorea.org/2024-seoul/preliminary) (56th)
   - (2024-09-20) [제2회 한양대학교·세종대학교 연합 프로그래밍 대회(HSPC) Beginner](https://www.acmicpc.net/contest/view/1371) (2nd)
   - (2024-09-08) [제5회 고려대학교 MatKor Cup: 2024 Summer/Fall](https://www.acmicpc.net/contest/view/1324) (30th)
   - (2024-07-13) [UCPC 예선](https://www.acmicpc.net/contest/view/1310) (76th)
