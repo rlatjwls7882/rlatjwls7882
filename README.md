@@ -6,8 +6,8 @@
 </p>
 
 ## Competitive Programming
-- BOJ 47등  
-- Solved.ac Diamond III 733등  
+- BOJ 48등  
+- Solved.ac Diamond III 724등  
 - Atcoder Top Rating 5 Kyu 1055  
 - Codeforces Top Rating Expert 1608
 - [전체 목록](https://clist.by/coder/rlatjwls7882)
