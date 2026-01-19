@@ -6,7 +6,7 @@
 </p>
 
 ## Competitive Programming
-- BOJ 48등  
+- BOJ 47등  
 - Solved.ac Diamond III 724등  
 - Atcoder Top Rating 5 Kyu 1055  
 - Codeforces Top Rating Expert 1608
@@ -33,6 +33,9 @@
 - (2025) Sejong Artificial Intelligence (SAI)
 
 ## Activity
+- 2026년
+  - (2026-01-17) [2025 고려대학교 프로그래밍 경시대회 (KCPC) Div. 1](https://www.acmicpc.net/contest/view/1644) (47th)
+
 - 2025년
   - (외부 검수진) [2025 건국대학교 프로그래밍 경진대회 (KUPC)](https://www.acmicpc.net/contest/view/1588)
   - (2025-11-22) [ICPC Asia Seoul Regional](https://icpckorea.org/2025-seoul/regional) (51th)
@@ -48,7 +51,7 @@
   - (2024-11-26) [제9회 SW코딩경시대회 (TOSC)](https://do.sejong.ac.kr/ko/mypage/programs/view/3469/description) (3등상)
   - (2024-11-23) [ICPC Asia Seoul Regional](https://icpckorea.org/2024-seoul/regional) (54th)
   - (2024-10-26) [ICPC Asia Seoul Regional First Round](https://icpckorea.org/2024-seoul/preliminary) (56th)
-  - (2024-09-20) [제2회 한양대학교·세종대학교 연합 프로그래밍 대회(HSPC) Beginner](https://www.acmicpc.net/contest/view/1371) (2nd)
+  - (2024-09-20) [제2회 한양대학교·세종대학교 연합 프로그래밍 대회 (HSPC) Beginner](https://www.acmicpc.net/contest/view/1371) (2nd)
   - (2024-09-08) [제5회 고려대학교 MatKor Cup: 2024 Summer/Fall](https://www.acmicpc.net/contest/view/1324) (30th)
   - (2024-07-13) [UCPC 예선](https://www.acmicpc.net/contest/view/1310) (76th)
   - (2024-05-25) [제2회 서울대학교 SCSC 프로그래밍 경시대회 (SCPC) Division 2](https://www.acmicpc.net/contest/view/1303) (75th)
