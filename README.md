@@ -6,6 +6,10 @@
 </p>
 
 ## Competitive Programming
+- BOJ 47등  
+- Solved.ac Diamond III 716등  
+- Atcoder Top Rating 5 Kyu 1055  
+- Codeforces Top Rating Expert 1608
 - [전체 목록](https://clist.by/coder/rlatjwls7882)
 <p>
   <a href="https://solved.ac/profile/rlatjwls3333/">
@@ -40,7 +44,7 @@
   - (2025-08-23) [제7회 고려대학교 MatKor Cup: 2025 Summer, The FinAL](https://www.acmicpc.net/contest/view/1536) (38th)
   - (2025-07-12) [UCPC 예선](https://www.acmicpc.net/contest/view/1525) (63th)
   - (2025-05-23) Interface 2025 Hackathon
-  - (2025-05-17) [제3회 서울대학교 SCSC 프로그래밍 경시대회 (SCPC) Division 2](https://www.acmicpc.net/contest/view/1471) (38th)
+  - (2025-05-17) [제3회 서울대학교 SCSC 프로그래밍 경시대회 (SCPC) Div. 2](https://www.acmicpc.net/contest/view/1471) (38th)
   - (2025-05-10) [월간 향유회 4-5월 대회](https://www.acmicpc.net/contest/view/1482) (26th)
 
 - 2024년
@@ -50,7 +54,7 @@
   - (2024-09-20) [제2회 한양대학교·세종대학교 연합 프로그래밍 대회 (HSPC) Beginner](https://www.acmicpc.net/contest/view/1371) (2nd)
   - (2024-09-08) [제5회 고려대학교 MatKor Cup: 2024 Summer/Fall](https://www.acmicpc.net/contest/view/1324) (30th)
   - (2024-07-13) [UCPC 예선](https://www.acmicpc.net/contest/view/1310) (76th)
-  - (2024-05-25) [제2회 서울대학교 SCSC 프로그래밍 경시대회 (SCPC) Division 2](https://www.acmicpc.net/contest/view/1303) (75th)
+  - (2024-05-25) [제2회 서울대학교 SCSC 프로그래밍 경시대회 (SCPC) Div. 2](https://www.acmicpc.net/contest/view/1303) (75th)
 
 ## Project
 - [백준 문제 풀이 저장소](https://github.com/rlatjwls7882/Baekjoon)
