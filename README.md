@@ -6,10 +6,6 @@
 </p>
 
 ## Competitive Programming
-- BOJ 47등  
-- Solved.ac Diamond III 724등  
-- Atcoder Top Rating 5 Kyu 1055  
-- Codeforces Top Rating Expert 1608
 - [전체 목록](https://clist.by/coder/rlatjwls7882)
 <p>
   <a href="https://solved.ac/profile/rlatjwls3333/">
@@ -29,7 +25,7 @@
 
 ## Club
 - (2024) Sejong Algorithm Lab (SAL)
-- (2025) 중앙 학술 동아리 Interface
+- (2025 ~ ) 중앙 학술 동아리 Interface
 - (2025) Sejong Artificial Intelligence (SAI)
 
 ## Activity
