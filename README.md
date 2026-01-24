@@ -34,6 +34,7 @@
 
 ## Activity
 - 2026년
+  - (2026-01-24) [Semi-Game Cup 4 : Grand Final](https://www.acmicpc.net/contest/view/1639) (57th)
   - (2026-01-17) [2025 고려대학교 프로그래밍 경시대회 (KCPC) Div. 1](https://www.acmicpc.net/contest/view/1644) (47th)
 
 - 2025년
