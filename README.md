@@ -6,19 +6,9 @@
 </p>
 
 ## Competitive Programming
-- BOJ 47등  
-- Solved.ac Diamond III 716등  
-- Atcoder Top Rating 5 Kyu 1055  
-- Codeforces Top Rating Expert 1608
 - [전체 목록](https://clist.by/coder/rlatjwls7882)
-<p>
-  <a href="https://solved.ac/profile/rlatjwls3333/">
-    <img alt="Solved.ac" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333">
-    <img alt="Baekjoon Heatmap" src="https://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark">
-  </a>
-</p>
-<p>
-  
+
+  [![solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rlatjwls3333)](https://solved.ac/profile/rlatjwls3333)
   [![Atcoder Profile](https://atcoder-badge.kro.kr?id=rlatjwls7882)](https://atcoder.jp/users/rlatjwls7882)
   [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)  
 </p>
