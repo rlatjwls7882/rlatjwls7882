@@ -28,7 +28,7 @@
   - (2026-01-17) [2025 고려대학교 프로그래밍 경시대회 (KCPC) Div. 1](https://www.acmicpc.net/contest/view/1644) (47th)
 
 - 2025년
-  - (2025-11-23) [2025 건국대학교 프로그래밍 경진대회 (KUPC)](https://www.acmicpc.net/contest/view/1588) 대회 검수
+  - (2025-11-23) [2025 건국대학교 프로그래밍 경진대회 (KUPC)](https://www.acmicpc.net/contest/view/1588) 문제 검수
   - (2025-11-22) [ICPC Asia Seoul Regional](https://icpckorea.org/2025-seoul/regional) (51th)
   - (2025-11-08) [제10회 SW코딩경시대회 (TOSC)](https://do.sejong.ac.kr/ko/mypage/programs/view/3897/description) (대상)
   - (2025-10-11) [ICPC Asia Seoul Regional First Round](https://icpckorea.org/2025-seoul/preliminary) (72th)
