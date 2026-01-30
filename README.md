@@ -19,8 +19,8 @@
 
 ## Club
 - (2024) Sejong Algorithm Lab (SAL)
-- (2025 ~ ) 중앙 학술 동아리 Interface
 - (2025) Sejong Artificial Intelligence (SAI)
+- (2025 ~ ) 중앙 학술 동아리 Interface
 
 ## Activity
 - 2026년
