@@ -1,4 +1,4 @@
-## Tech Stack
+## Language
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-FF9A00?style=flat-square&logo=openjdk&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
