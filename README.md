@@ -8,7 +8,7 @@
 ## Competitive Programming
 - [전체 목록](https://clist.by/coder/rlatjwls7882)
 
-  [![solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rlatjwls3333)](https://solved.ac/profile/rlatjwls3333)
+  [![solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle=rlatjwls3333)](https://github.com/kookjd7759/solvedac-readme-stats)  
   [![Atcoder Profile](https://atcoder-badge.kro.kr?id=rlatjwls7882)](https://atcoder.jp/users/rlatjwls7882)
   [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)  
 </p>
