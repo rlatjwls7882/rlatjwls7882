@@ -6,9 +6,9 @@
 </p>
 
 ## Competitive Programming
-- [전체 목록](https://clist.by/coder/rlatjwls7882)
-
-  [![solved ac stats](https://solvedac-readme-stats.vercel.app/api?handle=rlatjwls3333)](https://solved.ac/profile/rlatjwls3333)  
+- [전체 목록](https://clist.by/coder/rlatjwls7882)  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333)](https://solved.ac/rlatjwls3333/)
+  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)](https://solved.ac/rlatjwls3333/)  
   [![Atcoder Profile](https://atcoder-badge.kro.kr?id=rlatjwls7882)](https://atcoder.jp/users/rlatjwls7882)
   [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)  
 </p>
