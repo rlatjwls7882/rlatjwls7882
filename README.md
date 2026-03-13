@@ -4,52 +4,48 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1500&duration=4000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Competitive+Programmer+%7C+Backend+Developer">
 </p>
 
-- 🏆 **TOSC 2025 Champion**
-- 🧠 **ICPC Asia Seoul Regional Participant** (2024, 2025)
-- 💡 Passionate about **algorithmic problem solving** and **backend development**
+## 🏆 Highlights
 
-📚 **Algorithm Archive**  
-[Cpp-Algorithms](https://github.com/rlatjwls7882/Cpp-Algorithms)
+- 🥇 **TOSC 2025 Champion**
+- 🥉 **TOSC 2024 — 3rd Place**
+- 🧠 **ICPC Asia Seoul Regionalist** (2024, 2025)
+- 🥈 **HSPC Beginner — 2nd Place**
 
-## Competitive Programming
+Focused on **Competitive Programming**, **Algorithm Engineering**, and **Backend Systems**.
 
-### Achievements
-- 🏆 **TOSC** — Champion (2025), 3rd Place (2024)
-- 🧠 **ICPC Asia Seoul Regional** — Participant (2024, 2025)
-- 🥈 **HSPC Beginner** — 2nd Place
+## 🧠 Competitive Programming
 
-🔎 **All Contest Records**  
-[All User Content Records](https://clist.by/coder/rlatjwls7882)
+🔎 **Contest History**  
+[User Contest History](https://clist.by/coder/rlatjwls7882)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333)](https://solved.ac/rlatjwls3333/)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)](https://solved.ac/rlatjwls3333/)
 [![Atcoder Profile](https://atcoder-badge.kro.kr?id=rlatjwls7882)](https://atcoder.jp/users/rlatjwls7882)
 [![CodeForces Profile](https://cf.leed.at?id=rlatjwls7882)](https://codeforces.com/profile/rlatjwls7882)
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🧠 Algorithm Library
-Algorithm implementations, notes, and reusable templates for competitive programming.
+Algorithm Implementations, Notes, and Reusable Templates for Competitive Programming.
 
 🔗 https://github.com/rlatjwls7882/Cpp-Algorithms
 
 ### 📝 Baekjoon Solutions
-Collection of Baekjoon Online Judge solutions organized by algorithm category.
-- Archive of **5000+ problem solutions**
+Archive of **5000+ solved problems** organized by algorithm category.
 
 🔗 https://github.com/rlatjwls7882/Baekjoon
 
 ### 🌐 Personal Blog Platform
-Spring Boot–based blog platform with authentication, post management, and production deployment.
+Spring Boot based blog platform deployed on VPS.
 
 🔗 https://github.com/rlatjwls7882/projectbpm
 
-### 📦 Code Template
-Reusable competitive programming template for fast contest setup.
+### 📦 Competitive Programming Template
+Reusable Competitive Programming Template for fast contest setup.
 
 🔗 https://github.com/rlatjwls7882/Template
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Languages
 <p>
@@ -82,7 +78,22 @@ Reusable competitive programming template for fast contest setup.
   <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white">
 </p>
 
-### Communication
+## 🎓 Education
+- Gwangju Jungang High School (2020 – 2022)  
+- Sejong University — B.S. in Computer Engineering (2024–Present)
+
+## Clubs
+- Sejong Algorithm Lab (SAL) (2024)
+- Sejong Artificial Intelligence (SAI) (2025)
+- Interface — Central Academic Club (2025 – Present)
+
+## 📊 GitHub Stats
+<p>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rlatjwls7882&show_icons=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rlatjwls7882&layout=compact&theme=tokyonight"/>
+</p>
+
+## 📬 Contact
 <p>
   <a href="mailto:rlatjwls7882@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
@@ -92,22 +103,7 @@ Reusable competitive programming template for fast contest setup.
   </a>
 </p>
 
-## Education
-- Gwangju Jungang High School (2020 – 2022)  
-- Sejong University — B.S. in Computer Engineering (2024–Present)
-
-## Clubs
-- Sejong Algorithm Lab (SAL) (2024)
-- Sejong Artificial Intelligence (SAI) (2025)
-- Interface — Central Academic Club (2025 – Present)
-
-## GitHub Stats
-<p>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rlatjwls7882&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rlatjwls7882&layout=compact&theme=tokyonight"/>
-</p>
-
-## Activity
+## 👥 Activities
 
 ### 2026
 <details>
