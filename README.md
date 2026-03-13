@@ -75,6 +75,16 @@ Reusable Competitive Programming Template for fast contest setup.
   <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white">
 </p>
 
+## 📬 Contact
+<p>
+  <a href="mailto:rlatjwls7882@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/rlatjwls7882">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
+  </a>
+</p>
+
 ## 🎓 Education
 - Gwangju Jungang High School (2020 – 2022)  
 - Sejong University — B.S. in Computer Engineering (2024–Present)
@@ -88,16 +98,6 @@ Reusable Competitive Programming Template for fast contest setup.
 <p>
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rlatjwls7882&show_icons=true&theme=tokyonight"/>
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rlatjwls7882&layout=compact&theme=tokyonight"/>
-</p>
-
-## 📬 Contact
-<p>
-  <a href="mailto:rlatjwls7882@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://discord.com/users/rlatjwls7882">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
-  </a>
 </p>
 
 ## 📅 Activities
