@@ -1,7 +1,7 @@
 # Seojin Kim
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=950&duration=3000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Competitive+Programmer+%7C+Backend+Developer">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1500&duration=4000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Competitive+Programmer+%7C+Backend+Developer">
 </p>
 
 - 🏆 **TOSC 2025 Champion**
