@@ -1,10 +1,12 @@
 # Seojin Kim
-Competitive Programmer | Backend Developer  
-Sejong University Computer Engineering
 
-- 🏆 TOSC 2025 Champion
-- 🧠 ICPC Asia Seoul Regional Participant (2024, 2025)
-- 💡 Passionate about algorithmic problem solving and backend development
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&duration=3000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Competitive+Programmer+%7C+Backend+Developer">
+</p>
+
+- 🏆 **TOSC 2025 Champion**
+- 🧠 **ICPC Asia Seoul Regional Participant** (2024, 2025)
+- 💡 Passionate about **algorithmic problem solving** and **backend development**
 
 📚 **Algorithm Archive**  
 [Cpp-Algorithms](https://github.com/rlatjwls7882/Cpp-Algorithms)
