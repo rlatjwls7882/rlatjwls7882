@@ -5,18 +5,15 @@
 </p>
 
 ## 🏆 Highlights
-
 - 🥇 **TOSC 2025 Champion**
 - 🥉 **TOSC 2024 — 3rd Place**
 - 🧠 **ICPC Asia Seoul Regionalist** (2024, 2025)
 - 🥈 **HSPC Beginner — 2nd Place**
 
-Focused on **Competitive Programming**, **Algorithm Engineering**, and **Backend Systems**.
-
 ## 🧠 Competitive Programming
+I mainly focus on **Problem Solving**, **Algorithm Implementation**, and **Competitive Programming**.
 
-🔎 **Contest History**  
-[User Contest History](https://clist.by/coder/rlatjwls7882)
+🔎 [User Contest History](https://clist.by/coder/rlatjwls7882)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333)](https://solved.ac/rlatjwls3333/)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)](https://solved.ac/rlatjwls3333/)
@@ -25,7 +22,7 @@ Focused on **Competitive Programming**, **Algorithm Engineering**, and **Backend
 
 ## 🚀 Featured Projects
 
-### 🧠 Algorithm Library
+### 📚 Algorithm Archive
 Algorithm Implementations, Notes, and Reusable Templates for Competitive Programming.
 
 🔗 https://github.com/rlatjwls7882/Cpp-Algorithms
@@ -82,7 +79,7 @@ Reusable Competitive Programming Template for fast contest setup.
 - Gwangju Jungang High School (2020 – 2022)  
 - Sejong University — B.S. in Computer Engineering (2024–Present)
 
-## Clubs
+## 👥 Clubs
 - Sejong Algorithm Lab (SAL) (2024)
 - Sejong Artificial Intelligence (SAI) (2025)
 - Interface — Central Academic Club (2025 – Present)
@@ -103,7 +100,7 @@ Reusable Competitive Programming Template for fast contest setup.
   </a>
 </p>
 
-## 👥 Activities
+## 📅 Activities
 
 ### 2026
 <details>
