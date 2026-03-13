@@ -109,7 +109,7 @@ Reusable competitive programming template for fast contest setup.
 
 ## Activity
 
-### 2026년
+### 2026
 <details>
 <summary>펼쳐보기</summary>
   
@@ -118,7 +118,7 @@ Reusable competitive programming template for fast contest setup.
 - (2026-01-17) [2025 고려대학교 프로그래밍 경시대회 (KCPC) Div. 1](https://www.acmicpc.net/contest/view/1644) (47th)
 </details>
 
-### 2025년
+### 2025
 <details>
 <summary>펼쳐보기</summary>
   
@@ -133,7 +133,7 @@ Reusable competitive programming template for fast contest setup.
 - (2025-05-10) [월간 향유회 4-5월 대회](https://www.acmicpc.net/contest/view/1482) (26th)
 </details>
 
-### 2024년
+### 2024
 <details>
 <summary>펼쳐보기</summary>
   
