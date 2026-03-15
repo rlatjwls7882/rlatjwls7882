@@ -1,10 +1,10 @@
 # Seojin Kim
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1500&duration=4000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Competitive+Programmer+·+Backend+Developer">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1500&duration=4000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Competitive+Programmer+%C2%B7+Backend+Developer">
 </p>
 
 ## 👋 About Me
-I am a Computer Engineering student at **Sejong University** with strong interests in **Algorithms**, **Competitive Programming**, and **Backend Development**.  
+I am a Computer Engineering student at **Sejong University** with strong interests in **algorithms**, **competitive programming**, and **backend development**.  
 I actively participate in programming contests such as **ICPC**, **UCPC**, and major university competitions, while also building practical backend projects with **Spring Boot**.  
 I enjoy writing reusable templates, organizing technical notes, and turning problem-solving experience into clean and maintainable code.
 
@@ -15,7 +15,8 @@ I enjoy writing reusable templates, organizing technical notes, and turning prob
 - 🥈 **HSPC Beginner — 2nd Place**
 
 ## 🧠 Competitive Programming
-🔎 [User Contest History](https://clist.by/coder/rlatjwls7882)  
+🔎 [User Contest History](https://clist.by/coder/rlatjwls7882)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333)](https://solved.ac/rlatjwls3333/)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)](https://solved.ac/rlatjwls3333/)  
 [![Atcoder Profile](https://atcoder-badge.kro.kr?id=rlatjwls7882)](https://atcoder.jp/users/rlatjwls7882)
