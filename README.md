@@ -1,17 +1,22 @@
 # Seojin Kim
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1500&duration=4000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Competitive+Programmer+%7C+Backend+Developer">
 </p>
 
+## 👋 About Me
+I am a Computer Engineering student at **Sejong University** who enjoys solving challenging algorithmic problems and building practical software.
+
+I actively participate in programming contests including **ICPC**, **UCPC**, and major university competitions.  
+I am also interested in backend development with **Spring Boot**, and I enjoy building reusable tools, templates, and well-organized technical archives.
+
 ## 🏆 Highlights
-- 🥇 **TOSC 2025 Champion**
-- 🥉 **TOSC 2024 — 3rd Place**
-- 🧠 **ICPC Asia Seoul Regionalist** (2024, 2025)
+- 🥇 **TOSC 2025 — Grand Prize**
+- 🥉 **TOSC 2024 — Third Prize**
+- 🧠 **ICPC Asia Seoul Regional Participant** (2024, 2025)
 - 🥈 **HSPC Beginner — 2nd Place**
 
 ## 🧠 Competitive Programming
-I mainly focus on **Problem Solving**, **Algorithm Implementation**, and **Competitive Programming**.
+Focused on **Problem Solving**, **Algorithm Implementation**, and **Competitive Programming**.
 
 🔎 [User Contest History](https://clist.by/coder/rlatjwls7882)
 
