@@ -9,9 +9,9 @@ I actively participate in programming contests such as **ICPC**, **UCPC**, and m
 I enjoy writing reusable templates, organizing technical notes, and turning problem-solving experience into clean and maintainable code.
 
 ## 🏆 Highlights
+- 🧠 **ICPC Asia Seoul Regional Participant** (2024, 2025)
 - 🥇 **TOSC 2025 — Grand Prize**
 - 🥉 **TOSC 2024 — Third Prize**
-- 🧠 **ICPC Asia Seoul Regional Participant** (2024, 2025)
 - 🥈 **HSPC Beginner — 2nd Place**
 
 ## 🧠 Competitive Programming
