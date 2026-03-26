@@ -82,7 +82,7 @@ Reusable Competitive Programming Template for fast contest setup.
 </p>
 
 ## 🎓 Education
-- Sejong University — B.S. in Computer Engineering (2024–Present)
+- Sejong University — Computer Engineering (2024 – )
 - Gwangju Jungang High School (2020 – 2022)  
 
 ## 👥 Clubs
