@@ -5,8 +5,6 @@
 
 ## 👋 About Me
 I am a Computer Engineering student at **Sejong University** with strong interests in **algorithms**, **competitive programming**, and **backend development**.  
-I actively participate in programming contests such as **ICPC**, **UCPC**, and major university competitions, while also building practical backend projects with **Spring Boot**.  
-I enjoy writing reusable templates, organizing technical notes, and turning problem-solving experience into clean and maintainable code.
 
 ## 🏆 Highlights
 - 🧠 **ICPC Asia Seoul Regional Participant** (2024, 2025)
