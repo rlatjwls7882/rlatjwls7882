@@ -31,7 +31,13 @@ Archive of **5000+ solved problems** organized by algorithm category.
 
 ### 🌐 Personal Blog Platform
 Spring Boot based blog platform deployed on VPS.  
-🔗 https://github.com/rlatjwls7882/projectbpm
+🔗 https://github.com/rlatjwls7882/projectbpm  
+🔗 https://projectbpm.kro.kr  
+
+### 🌐 OJ System
+Spring Boot based OJ system deployed on VPS.  
+🔗 https://github.com/rlatjwls7882/SOJ  
+🔗 https://soj.services  
 
 ### 📦 Competitive Programming Template
 Reusable Competitive Programming Template for fast contest setup.  
