@@ -38,6 +38,7 @@ Spring Boot based blog platform deployed on VPS.
 Spring Boot based OJ system deployed on VPS.  
 🔗 https://github.com/rlatjwls7882/SOJ  
 🔗 https://soj.services  
+🔗 https://github.com/rlatjwls7882/SOJ-Solutions  
 
 ### 📦 Competitive Programming Template
 Reusable Competitive Programming Template for fast contest setup.  
