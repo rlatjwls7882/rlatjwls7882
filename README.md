@@ -91,7 +91,7 @@ Reusable Competitive Programming Template for fast contest setup.
 - Gwangju Jungang High School (2020 – 2022)  
 
 ## 👥 Clubs
-- Interface — Central Academic Club (2025 – Present)
+- Interface — Central Academic Club (2025 – )
 - Sejong Artificial Intelligence (SAI) (2025)
 - Sejong Algorithm Lab (SAL) (2024)
 
