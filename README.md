@@ -21,13 +21,10 @@ I am a Computer Engineering student at **Sejong University** with strong interes
 [![Atcoder Profile](https://atcoder-badge.kro.kr?id=rlatjwls7882)](https://atcoder.jp/users/rlatjwls7882)
 
 ## 🚀 Featured Projects
-### 📚 Algorithm Archive
-Algorithm Implementations, Notes, and Reusable Templates for Competitive Programming.  
-🔗 https://github.com/rlatjwls7882/Cpp-Algorithms
 
 ### 📝 Baekjoon Solutions
-Archive of **5000+ solved problems** organized by algorithm category.  
-🔗 https://github.com/rlatjwls7882/Baekjoon
+Archive of 5000+ solved problems.  
+🔗 https://github.com/rlatjwls7882/Baekjoon  
 
 ### 🌐 Personal Blog Platform
 Spring Boot based blog platform deployed on VPS.  
@@ -41,7 +38,7 @@ Spring Boot based OJ system deployed on VPS.
 🔗 https://github.com/rlatjwls7882/SOJ-Solutions  
 
 ### 📦 Competitive Programming Template
-Reusable Competitive Programming Template for fast contest setup.  
+Reusable Competitive Programming Template.  
 🔗 https://github.com/rlatjwls7882/Template
 
 ## 🧰 Tech Stack
