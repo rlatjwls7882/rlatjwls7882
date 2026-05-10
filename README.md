@@ -28,7 +28,6 @@ Archive of 5000+ solved problems.
 
 ### 🌐 OJ System
 Spring Boot based OJ system deployed on VPS.  
-🔗 https://github.com/rlatjwls7882/SOJ  
 🔗 https://soj.services  
 🔗 https://github.com/rlatjwls7882/SOJ-Solutions  
 
