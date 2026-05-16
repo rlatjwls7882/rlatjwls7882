@@ -106,6 +106,7 @@ Reusable Competitive Programming Template.
 - (진행중) SJUPC 2026 주최 및 출제
 - (진행중) 경희대학교 2026 봄 프로그래밍 경시대회 (KHSPC) 문제 검수
 - (진행중) DSPC 2026 문제 검수
+- (2026-05-17) 제4회 서울대학교 SCSC 프로그래밍 경시대회 (SCPC) Div. 2 (26th)
 - (2026-05-09) [2026 부산대학교 프로그래밍 대회 (PNUPC)](https://cse.pusan.ac.kr/bbs/cse/2055/1434870/artclView.do) 문제 검수
 - (2026-02-22) [월간 향유회 1-2월 대회](https://www.acmicpc.net/contest/view/1652) (16th)
 - (2026-01-24) [Semi-Game Cup 4 : Grand Final](https://www.acmicpc.net/contest/view/1639) (57th)
