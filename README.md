@@ -77,7 +77,7 @@ Reusable Competitive Programming Template.
   <a href="mailto:rlatjwls7882@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
-  <a href="https://discord.com/users/rlatjwls7882">
+  <a href="https://discord.com/users/686075131239465005">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
   </a>
 </p>
